@@ -8,3 +8,13 @@ img{
     height: 100vh;
     
 }
+
+body{
+    background-color: red;
+}
+
+@media (min-width: 700px){
+    body{
+        background-color: aliceblue;
+    }
+}
