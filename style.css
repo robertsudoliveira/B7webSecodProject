@@ -1,20 +1,28 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+
+
+:root{
+--bg-color: rgb(224, 46, 46);
+--font-f: font-size: 15px;
+--bg-secondColor: #ff00f0;
 }
 
-img{
-    height: 100vh;
-    
-}
+
+
+
+
+
+
 
 body{
-    background-color: red;
+  background-color: var(--bg-color)
 }
-
-@media (min-width: 700px){
-    body{
-        background-color: aliceblue;
-    }
+h1{
+  color: white;
+  font-size: var (--font-f);
+}
+.container{
+  background-color: var(--bg-secondColor);
+ --verde:var(--bg-secondColor)
+ 
+  
 }
