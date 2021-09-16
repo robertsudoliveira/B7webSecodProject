@@ -16,5 +16,15 @@
 
 // finalizado //
 
+ 
 
+let num1 = 10
+
+let num2 = 5 
+
+
+let soma = 5 + 10 
+
+
+console.log(soma    )
 
