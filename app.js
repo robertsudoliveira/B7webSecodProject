@@ -18,13 +18,49 @@
 
  
 
-let num1 = 10
+// let num1 = 10
 
-let num2 = 5 
-
-
-let soma = 5 + 10 
+// let num2 = 5 
 
 
-console.log(soma    )
+// let soma = 5 + 10 
+
+
+// console.log(soma    )
+
+
+
+
+
+
+
+
+
+let aluno = 10
+let aluno 
+
+
+
+
+
+
+
+
+
+
+
+
+
+let numero1 = 5
+let numero2 = 10
+
+let soma = 5 + 10
+
+console.log(soma)
+
+
+
+
+
+
 
