@@ -1,18 +1,9 @@
-
-*{
+body{
     margin: 0;
-    padding:0;
-    border: 0;
 }
 
-
- .container
-{
-    margin: 0 auto;
-    /* display: flex; */
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    width: 80%;
-
+.container{
+    background-color: #ccc;
+    height: 300px;
+    width: calc( 100% - 20px)g
 }
