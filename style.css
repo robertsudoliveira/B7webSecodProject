@@ -1,1 +1,35 @@
 
+input{
+    outline:none;
+    padding: 5px;
+    margin: 5px;
+    margin-left: 35px;
+    border-radius: 5px;
+    width: 11rem;
+}
+
+.formulario{
+    background: linear-gradient(red , black);
+    width: 300px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px;
+
+}
+h1{
+    text-align: center;
+    padding: 20%;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+.button{
+    background: linear-gradient(red , black);
+    border: 1px solid tomato;
+    color:white;
+    width: 12rem;
+    margin: 1rem;
+    margin-left: 16%;
+    text-align: center;
+}
