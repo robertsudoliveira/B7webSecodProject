@@ -52,3 +52,20 @@ h1{
 .button:hover{
     background:linear-gradient(black ,red) 
 }
+
+@media (min-width: 500px){
+body{
+
+    background-color: rebeccapurple;
+
+}
+
+    @media (max-width: 600px){
+
+        body{
+        background-color: red;
+    }
+        
+    
+}
+
