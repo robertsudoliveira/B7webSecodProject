@@ -59,13 +59,13 @@ h1{
     background-color:#403d39;
     transition: all 0s linear;
     box-shadow: 1px 1px 5px tomato;
+    cursor: pointer;
+    padding: 9px;
 }
 
 .button:hover{
     background-color: tomato;
 
-  
-    
 }
 
 
@@ -73,5 +73,13 @@ h1{
 .formulario:hover{
     height: 430px;
     background-color: rgb(170, 8, 8);
+}
+
+a{
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    margin-left: 70px;
+   
 }
 
